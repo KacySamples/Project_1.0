@@ -1,0 +1,5 @@
+What motivated us to answer this?
+
+The analysis process
+
+write up summarizing major findings, include a heading for each “question” and a short description of your findings and relevant plots.
