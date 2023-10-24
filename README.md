@@ -13,6 +13,11 @@ Kirby Smith
 
 # **Budget vs. Revenue in the Movie Industry**
 
+## **About our CSV**
+For the first steps of cleaning the data, we first need to filter the CSV down to only the categories we are going to analyze. The CSV started with much more then we needed to look at and extra needed to be dropped off. The next step was to get rid of any values that were incomplete since they may skew the data. 
+
+Based on the original csv file, the Genre column had lots of ID numbers and the name of the genres. EX: [{"id": 16, "name": "Animation"}, {"id": 10751, "name": "Family"}]. We utilized genre in our code and presentation so it was necessary to clean this information in the column. The way I did this was by using the find and replace tool in Excel.
+
 ## **Description**
 The purpose of this analysis is to identify if factors such as genre, budget, release date, and runtime contribute significantly to a film's final gross revenue. 
 
